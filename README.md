@@ -1,4 +1,4 @@
-# guidanzTask
+# Spring-sample-backend
 
 'guidanz' directory contains the back-end code. You can open this directory using any IDE.
 
